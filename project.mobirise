@@ -7,8 +7,10 @@
     "favicon": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74419226-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "publishType": "local",
-    "publishPath": "file:///Users/louterryn/Desktop/Website%20Engels/V%2006",
-    "cookiesAlert": "We gebruiken cookies. Lees onze <a href='privacy.html'>cookie policy</a>."
+    "publishPath": "file:///Users/louterryn/Desktop/Website%20Engels/V%2007",
+    "cookiesAlert": "We gebruiken cookies. Lees onze <a href='privacy.html'>cookie policy</a>.",
+    "path": "file:///Users/louterryn/Desktop/Website%20op%2011:5:2016",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Privacy.html": {
@@ -834,14 +836,14 @@
             "DIV": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "14px"
             },
             "P": {
               "font-size": "14px"
             }
           },
           "_anchor": "content1-48",
-          "text": "<h3>I want to understand the world.</h3><div>When I see something beautiful, I have to know why it looks that way on that certain moment. I want to comprehend the underlying processes that lead to an eventual beauty, coincidentally seen by me. Often, I will use photos, because most of the beauties are continuously changing evolutions. By taking a picture, I stop the time, so I can have more time to analyse the image completely. On that photo, I lay a grid, and I convert this grid to the right proportions. Most of the time, I use different ratios, from very large to very small, and execute them in different ways with different materials. During this process, my search of the understanding and comprehending starts, by looking at scientific explanations of the natural processes that incited me in the first place.</div><div>This fascination is not something new for me; before studying Painting at the LUCA School of Arts, I studied Medicine for 3 years at the University of Ghent. The entire curriculum was very interesting to me, but I realized more and more that I did not belong in this direction, this line of exact sciences. After a very long period of doubt, I eventually decided to give up Medicine and switch to the fine arts, and I'm still very happy to have dared to take that step.</div><div> </div><h3>Contact me: Lou.Terryn1@gmail.com</h3>"
+          "text": "<h3>I want to understand the world.</h3><div>When I see something beautiful, I have to know why it looks that way on that certain moment. I want to comprehend the underlying processes that lead to an eventual beauty, coincidentally seen by me.</div><div>Often, I will use photos, because most of the beauties are continuously changing evolutions. By taking a picture, I stop the time, so I can have more time to analyse the image completely. On that photo, I lay a grid, and I convert this grid to the right proportions. Most of the time, I use different ratios, from very large to very small, and execute them in different ways with different materials. During this process, my search of the understanding and comprehending starts, by looking at scientific explanations of the natural processes that incited me in the first place.</div><div>This fascination is not something new for me; before studying Painting at the LUCA School of Arts, I studied Medicine for 3 years at the University of Ghent. The entire curriculum was very interesting to me, but I realized more and more that I did not belong in this direction, this line of exact sciences. After a very long period of doubt, I eventually decided to give up Medicine and switch to the fine arts, and I'm still very happy to have dared to take that step.</div><div> </div><h4>Contact me: Lou.Terryn1@gmail.com</h4>"
         }
       ]
     }
